@@ -22,7 +22,7 @@ This accreditation covers the core principles of the Databricks ecosystem, inclu
 ---
 
 ## 🎓 Certification
-**I have attached the official certification to this repository.** You can view the full certificate here: [**View Certification PDF**](./Academy Accreditation - Databricks Fundamentals.pdf)
+**I have attached the official certification to this repository.** You can view the full certificate here: [**Academy Accreditation - Databricks Fundamentals**](./Academy%20Accreditation%20-%20Databricks%20Fundamentals.pdf)
 
 ---
 ### 🛠️ Skills & Technologies
